@@ -2,13 +2,13 @@
 
 An online course selling platform focused on delivering digital education and training programs to students via the web. The business model revolves around creating, marketing, and selling online courses.
 
-Source: https://nailflix-b3f60be2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפוך מומחה לציפורניים עם קורסים אונליין — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app
+URL: https://example.com
 Description: גלה קורסים אונליין מעשירים בתחום הציפורניים והמניקור. רכוש מיומנויות מבוקשות, למד בקצב שלך והפוך למקצוען. הצטרף ל-Nailflix עוד היום והתחל לעצב קריירה!
 
 הפוך מומחה לציפורניים עם קורסים אונליין — Nailflix
@@ -557,7 +557,7 @@ Description: גלה קורסים אונליין מעשירים בתחום הצי
 
 ## בחר את מסלול הלמידה המושלם למניקור — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/learning-paths
+URL: https://example.com/learning-paths
 Description: חקור מגוון מסלולי למידה מקיפים הכוללים טכניקות מניקור מתקדמות, טיפסים הפוכים ומבנה אנטומי. התאם את הלימודים למטרותיך והפוך למומחה. התחל היום!
 
 בחר את מסלול הלמידה המושלם למניקור — Nailflix
@@ -1211,7 +1211,7 @@ Description: חקור מגוון מסלולי למידה מקיפים הכולל
 
 ## הכירו את החזון החינוכי של Nailflix — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/about
+URL: https://example.com/about
 Description: למדו על Nailflix, פלטפורמת החינוך המקוונת המובילה לקורסי ציפורניים. אנו מחויבים להעניק לך כלים מקצועיים, ליווי צמוד ותוצאות אמיתיות. בואו לצמוח איתנו!
 
 הכירו את החזון החינוכי של Nailflix — Nailflix
@@ -1672,7 +1672,7 @@ Nailflix נולדה מתוך תשוקה אמיתית להנגיש את עולם 
 
 ## תוצאות תלמידים מדהימות שיעוררו בך השראה — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/student-results
+URL: https://example.com/student-results
 Description: צפה בתוצאות המרשימות של בוגרי Nailflix: מעבודות מניקור יצירתיות ועד להצלחה מקצועית. ראה כיצד קורסים אונליין יכולים לשנות את חייך. הצטרף לשורות המצליחים!
 
 תוצאות תלמידים מדהימות שיעוררו בך השראה — Nailflix
@@ -2291,7 +2291,7 @@ Description: צפה בתוצאות המרשימות של בוגרי Nailflix: מ
 
 ## כל התשובות לשאלות על קורסי ציפורניים — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/faq
+URL: https://example.com/faq
 Description: מתעניינים בקורס דיגיטלי למניקור? כאן תמצאו תשובות ברורות על מבנה אנטומי, טיפסים הפוכים, תעודות ועוד. קבלו את כל המידע כדי להתחיל בביטחון!
 
 כל התשובות לשאלות על קורסי ציפורניים — Nailflix
@@ -2735,7 +2735,7 @@ Nailflix היא לא רק פלטפורמה לקורסים אונליין – א�
 
 ## דברו איתנו והתחילו את מסע הלמידה — Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על קורס ציפורניים או מסלולי למידה? צרו קשר עם צוות Nailflix עוד היום. אנחנו כאן כדי לעזור לך לבחור את הקורס המושלם ולהגשים את החלום המקצועי!
 
 דברו איתנו והתחילו את מסע הלמידה — Nailflix
@@ -3184,7 +3184,7 @@ Description: יש שאלה על קורס ציפורניים או מסלולי ל
 
 ## עגלת קניות
 
-URL: https://nailflix-b3f60be2.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Nailflix
@@ -3440,7 +3440,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://nailflix-b3f60be2.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Nailflix
@@ -3882,7 +3882,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://nailflix-b3f60be2.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Nailflix
@@ -4145,7 +4145,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://nailflix-b3f60be2.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Nailflix
@@ -4563,7 +4563,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://nailflix-b3f60be2.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה שנרשמת לקורס
 
 ההזמנה התקבלה! - Nailflix
@@ -4843,7 +4843,7 @@ Description: תודה שנרשמת לקורס
 
 ## מדיניות החזרות
 
-URL: https://nailflix-b3f60be2.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Nailflix
@@ -5152,7 +5152,7 @@ Nailflix מחויבת לשביעות רצון לקוחותיה. מדיניות �
 
 ## מדיניות פרטיות
 
-URL: https://nailflix-b3f60be2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5436,7 +5436,7 @@ Nailflix ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://nailflix-b3f60be2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5729,7 +5729,7 @@ Nailflix מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://nailflix-b3f60be2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -6041,7 +6041,7 @@ Nailflix מספקת Online Education דרך האתר. השירותים כפופ�
 
 ## תודה - Nailflix
 
-URL: https://nailflix-b3f60be2.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Nailflix - תודה - Nailflix
 
 תודה - Nailflix
@@ -6286,7 +6286,7 @@ Description: Nailflix - תודה - Nailflix
 
 ## Courses
 
-URL: https://nailflix-b3f60be2.zappy5.app/courses
+URL: https://example.com/courses
 Description: Browse all available courses.
 
 - קורסים כל הקורסים
@@ -6432,7 +6432,7 @@ Loading courses…
 
 ## Courses
 
-URL: https://nailflix-b3f60be2.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: Browse courses in this category.
 
 - קורסים כל הקורסים
@@ -6581,7 +6581,7 @@ Loading courses…
 
 ## Course
 
-URL: https://nailflix-b3f60be2.zappy5.app/courses/:slug
+URL: https://example.com/courses/:slug
 Description: Course details and curriculum.
 
 - קורסים כל הקורסים
@@ -6747,7 +6747,7 @@ Already enrolled?   Log in
 
 ## Lesson
 
-URL: https://nailflix-b3f60be2.zappy5.app/lesson/:lessonId
+URL: https://example.com/lesson/:lessonId
 Description: Lesson player.
 
 - קורסים כל הקורסים
@@ -6904,7 +6904,7 @@ Next
 
 ## My Learning
 
-URL: https://nailflix-b3f60be2.zappy5.app/my-learning
+URL: https://example.com/my-learning
 Description: Your enrolled courses and progress.
 
 - קורסים כל הקורסים
@@ -7053,7 +7053,7 @@ You haven't enrolled in any courses yet.
 
 ## Certificate Verification
 
-URL: https://nailflix-b3f60be2.zappy5.app/certificate/:code
+URL: https://example.com/certificate/:code
 Description: Verify a course completion certificate.
 
 - קורסים כל הקורסים
