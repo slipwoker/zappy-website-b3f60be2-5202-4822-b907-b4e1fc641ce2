@@ -1,0 +1,124 @@
+# Nailflix — Generative Engine Optimization Map
+
+> An online course selling platform focused on delivering digital education and training programs to students via the web. The business model revolves around creating, marketing, and selling online courses.
+
+---
+
+## Pages
+
+### בית
+https://nailflix-b3f60be2.zappy5.app
+גלה קורסים אונליין מעשירים בתחום הציפורניים והמניקור. רכוש מיומנויות מבוקשות, למד בקצב שלך והפוך למקצוען. הצטרף ל-Nailflix עוד היום והתחל לעצב קריירה!
+
+### מסלולי למידה
+https://nailflix-b3f60be2.zappy5.app/learning-paths
+חקור מגוון מסלולי למידה מקיפים הכוללים טכניקות מניקור מתקדמות, טיפסים הפוכים ומבנה אנטומי. התאם את הלימודים למטרותיך והפוך למומחה. התחל היום!
+
+### אודות
+https://nailflix-b3f60be2.zappy5.app/about
+למדו על Nailflix, פלטפורמת החינוך המקוונת המובילה לקורסי ציפורניים. אנו מחויבים להעניק לך כלים מקצועיים, ליווי צמוד ותוצאות אמיתיות. בואו לצמוח איתנו!
+
+### תוצאות תלמידים
+https://nailflix-b3f60be2.zappy5.app/student-results
+צפה בתוצאות המרשימות של בוגרי Nailflix: מעבודות מניקור יצירתיות ועד להצלחה מקצועית. ראה כיצד קורסים אונליין יכולים לשנות את חייך. הצטרף לשורות המצליחים!
+
+### שאלות נפוצות
+https://nailflix-b3f60be2.zappy5.app/faq
+מתעניינים בקורס דיגיטלי למניקור? כאן תמצאו תשובות ברורות על מבנה אנטומי, טיפסים הפוכים, תעודות ועוד. קבלו את כל המידע כדי להתחיל בביטחון!
+
+### צור קשר
+https://nailflix-b3f60be2.zappy5.app/contact
+יש שאלה על קורס ציפורניים או מסלולי למידה? צרו קשר עם צוות Nailflix עוד היום. אנחנו כאן כדי לעזור לך לבחור את הקורס המושלם ולהגשים את החלום המקצועי!
+
+### Cart
+https://nailflix-b3f60be2.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://nailflix-b3f60be2.zappy5.app/checkout
+תשלום
+
+### Login
+https://nailflix-b3f60be2.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://nailflix-b3f60be2.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://nailflix-b3f60be2.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה - Nailflix
+https://nailflix-b3f60be2.zappy5.app/thank-you
+Nailflix - תודה - Nailflix
+
+### Courses
+https://nailflix-b3f60be2.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://nailflix-b3f60be2.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://nailflix-b3f60be2.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://nailflix-b3f60be2.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://nailflix-b3f60be2.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://nailflix-b3f60be2.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://nailflix-b3f60be2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nailflix-b3f60be2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nailflix-b3f60be2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Nailflix
+An online course selling platform focused on delivering digital education and training programs to students via the web. The business model revolves around creating, marketing, and selling online courses.
+
+## Target Audience
+- מקצועני מניקוריסטים
+- חובבי יופי
+- מחליפי קריירה
+
+## Industry
+Online Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://nailflix-b3f60be2.zappy5.app/sitemap.xml
+- Robots: https://nailflix-b3f60be2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://nailflix-b3f60be2.zappy5.app/llms-full.txt
+- Products (JSON): https://nailflix-b3f60be2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://nailflix-b3f60be2.zappy5.app/product-feed.xml
