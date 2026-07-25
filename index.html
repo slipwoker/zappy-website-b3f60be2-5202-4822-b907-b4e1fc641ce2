@@ -780,13 +780,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/courses";</script>
-<script>window.ZAPPY_WEBSITE_ID = "b3f60be2-5202-4822-b907-b4e1fc641ce2";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "b3f60be2-5202-4822-b907-b4e1fc641ce2";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1342,19 +1342,19 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </section>
   
 
-<section data-band-index="1" class="index-benefits-section" data-layout-spec="בית-benefits">
+<section data-band-index="1" class="index-benefits-section" data-layout-spec="בית-benefits" id="index-benefits-section">
   <div class="benefits-container">
     <!-- Intro Block -->
     <div class="benefits-intro">
-      <span class="section-label">היתרונות שלנו</span>
-      <h2>הדרך הבטוחה להצלחה במקצוע</h2>
+      <p class="zappy-editable"><span class="section-label">היתרונות שלנו</span>
+      </p><h2>הדרך הבטוחה להצלחה במקצוע</h2>
       <p>אנחנו ב־Nailflix מאמינים שלמידה איכותית צריכה להיות נגישה, מובנית וממוקדת תוצאות. הקורסים שלנו נבנו כדי להעניק לך את הביטחון, הידע והפרקטיקה שאת צריכה כדי להפוך למקצוענית אמיתית.</p>
     </div>
 
     <!-- Benefits Grid -->
     <div class="benefits-grid">
       <!-- Card 1 -->
-      <article class="benefit-card">
+      <article class="benefit-card" data-grid-item-index="0">
         <div class="benefit-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M24 6L28.09 17.54L40.78 18.27L31.39 26.46L33.82 38.78L24 32L14.18 38.78L16.61 26.46L7.22 18.27L19.91 17.54L24 6Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1364,14 +1364,14 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         </div>
         <h3>מסלול לימודים מובנה</h3>
         <p>מהבסיס ועד לטכניקות המתקדמות ביותר – כל שיעור בנוי בצורה מדורגת וברורה, כך שתוכלי להתקדם בקצב שלך מבלי לפספס אף שלב חשוב.</p>
-        <div class="certification-detail">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <div class="certification-detail" style>
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="cursor: pointer;"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
           <span>תעודת הסמכה בתום הקורס</span>
         </div>
       </article>
 
       <!-- Card 2 -->
-      <article class="benefit-card">
+      <article class="benefit-card" data-grid-item-index="1">
         <div class="benefit-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M38 14H10C7.79086 14 6 15.7909 6 18V36C6 38.2091 7.79086 40 10 40H38C40.2091 40 42 38.2091 42 36V18C42 15.7909 40.2091 14 38 14Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1389,7 +1389,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       </article>
 
       <!-- Card 3 -->
-      <article class="benefit-card">
+      <article class="benefit-card" data-grid-item-index="2">
         <div class="benefit-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M24 6V14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
